@@ -1,0 +1,3 @@
+Code for joseph.renton.es, a Minecraft server status page.
+
+Note that currently the server is offline, and although this repository contains PHP scripts for monitoring server status, this active content does not run from Github Pages sites. The index.html file is used as a static homepage showing the server as offline only. If/when the server returns, this status page will be migrated back to a server with PHP support.
